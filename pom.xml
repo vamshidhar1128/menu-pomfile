@@ -14,7 +14,7 @@
 
     <groupId>com.bhanu.empid</groupId>
     <artifactId>User</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>war</packaging> <!-- Ensures the output is a WAR file -->
     <name>User</name>
     <description>User project for Spring Boot</description>
